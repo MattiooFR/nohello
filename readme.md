@@ -59,6 +59,4 @@ it helps you remember what you wanted to talk about if the recipient can't or do
 until later.
 
 This version was inspired by the original website [nohello.com](http://www.nohello.com/).
-Acknowledgements go to the original anonymous author. I felt an urge to
-modernize this gem with a more suitable layout and https connection. The source
-of this file is publicly available on [github.com](https://github.com/sbmueller/nohello).
+Acknowledgements go to the original anonymous author.
